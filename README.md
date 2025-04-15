@@ -108,4 +108,4 @@ Search, collect, or integrate Indicators of Compromise (IOCs) from reliable open
 
 _🔐 Stay ahead of threats. Monitor early. Respond fast._
 
-This Project is licensed under the [MIT License](LICENSE).
+
