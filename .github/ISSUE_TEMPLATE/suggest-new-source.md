@@ -1,7 +1,7 @@
 ---
 name: Suggest new Source
 about: Suggest a new Source for the list
-title: ''
+title: 'NEw Suggestion'
 labels: add source
 assignees: ''
 
