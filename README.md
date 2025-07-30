@@ -39,6 +39,7 @@ Manually browsable advisory portals for vulnerability tracking and alert monitor
 
 ---
 
+
 ## ⚙️ Tools & Software
 
 Software tools and platforms developed by CIRCL, Pandora, and related initiatives – these are designed for analysis, threat data processing, and operational intelligence (distinct from manual advisory sites):
@@ -76,6 +77,38 @@ Software tools and platforms developed by CIRCL, Pandora, and related initiative
   
 - **BGP Ranking – General BGP and Routing Analysis**  
   [bgpranking.circl.lu/](https://bgpranking.circl.lu/)
+
+---
+
+## 📦 CSAF Resources
+
+Machine-readable security advisories in CSAF format for integration in automated workflows and vulnerability management:
+
+- **📘 BSI CSAF Portal**  
+  [bsi.bund.de – CSAF](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Industrielle-Steuerungs-und-Automatisierungssysteme/CSAF/CSAF_node.html)
+
+- **🔗 CSAF Aggregator (CERT-Bund)**  
+  [aggregator.json](https://wid.cert-bund.de/.well-known/csaf-aggregator/aggregator.json)  
+  
+
+### 🏷️ Trusted CSAF Providers
+
+Below are selected trusted providers with machine-readable `provider-metadata.json`:
+
+| Publisher                         | CSAF Metadata URL |
+|----------------------------------|-------------------|
+| **Intevation GmbH**              | [Link](https://intevation.de/.well-known/csaf/provider-metadata.json) |
+| **Nozomi Networks**              | [Link](https://csaf.data.security.nozominetworks.com/provider-metadata.json) |
+| **Red Hat Product Security**     | [Link](https://security.access.redhat.com/data/csaf/v2/provider-metadata.json) |
+| **Huawei PSIRT**                 | [Link](https://www.huawei.com/.well-known/csaf/provider-metadata.json) |
+| **CISA**                         | [Link](https://www.cisa.gov/sites/default/files/csaf/provider-metadata.json) |
+| **SICK PSIRT**                   | [Link](https://www.sick.com/.well-known/csaf/provider-metadata.json) |
+| **Stackable Security Team**      | [Link](https://advisories.stackable.tech/.well-known/csaf/provider-metadata.json) |
+| **Open-Xchange GmbH**            | [Link](https://www.open-xchange.com/.well-known/csaf/provider-metadata.json) |
+| **Siemens ProductCERT**          | [Link](https://cert-portal.siemens.com/productcert/csaf/provider-metadata.json) |
+| **BSI / CERT-Bund**              | [Link](https://wid.cert-bund.de/.well-known/csaf/provider-metadata.json) |
+| **- **Hitachi Energy PSIRT**     | [Link](https://aggregator.cert-bund.de/.well-known/csaf-aggregator/www_hitachienergy_com_cybersecurity_alerts-and-notifications/provider-metadata.json) |
+
 
 ---
 
