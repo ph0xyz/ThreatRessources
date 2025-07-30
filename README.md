@@ -107,7 +107,7 @@ Below are selected trusted providers with machine-readable `provider-metadata.js
 | **Open-Xchange GmbH**            | [Link](https://www.open-xchange.com/.well-known/csaf/provider-metadata.json) |
 | **Siemens ProductCERT**          | [Link](https://cert-portal.siemens.com/productcert/csaf/provider-metadata.json) |
 | **BSI / CERT-Bund**              | [Link](https://wid.cert-bund.de/.well-known/csaf/provider-metadata.json) |
-| **- **Hitachi Energy PSIRT**     | [Link](https://aggregator.cert-bund.de/.well-known/csaf-aggregator/www_hitachienergy_com_cybersecurity_alerts-and-notifications/provider-metadata.json) |
+| **Hitachi Energy PSIRT**     | [Link](https://aggregator.cert-bund.de/.well-known/csaf-aggregator/www_hitachienergy_com_cybersecurity_alerts-and-notifications/provider-metadata.json) |
 
 
 ---
