@@ -178,6 +178,7 @@ Search, collect, or integrate Indicators of Compromise (IOCs) from reliable open
 - [Talos Intelligence](https://www.talosintelligence.com/) – Cisco's research unit  
 - [ThreatFox](https://threatfox.abuse.ch/) – Malware IOC sharing platform  
 - [URLHaus](https://urlhaus.abuse.ch/) – Malicious URL database (Abuse.ch)
+- [**ICHI – Internet Cyber Health Index**](https://ichi.global/) – Free public daily barometer of internet-wide cyber health, aggregating threat intelligence and news feeds from 50+ sources for an outside-in view of current internet threat conditions. RSS feed available at ichi.global/api/alerts.
 
 ---
 
