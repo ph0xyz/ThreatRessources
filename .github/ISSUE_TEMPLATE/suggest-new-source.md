@@ -9,7 +9,7 @@ assignees: ''
 
 ## New Source Suggestion
 
-Please fill out the details below to suggest a cybersecurity source for the list.
+Please fill out the details below to suggest a source for the list.
 
 ### URL:
 Link to the main advisory page, standard machine-readable feed (RSS or Atom), or newsletter.
