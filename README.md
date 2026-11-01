@@ -120,7 +120,8 @@ Real-time vulnerability and advisory updates for integration into feed readers, 
 
 - [CERT-Bund Security RSS](https://wid.cert-bund.de/content/public/securityAdvisory/rss)  
 - [CISA – All Advisories](https://www.cisa.gov/cybersecurity-advisories/all.xml)  
-- [CISA – ICS Advisories](https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml)  
+- [CISA – ICS Advisories](https://www.cisa.gov/cybersecurity-advisories/ics-advisories.xml)
+- [CISA - Known Exploited Vulnerabilities](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json)
 - [CERT-EU RSS](https://cert.europa.eu/publications/security-advisories-rss)  
 - [Canada CCCS RSS](https://www.cyber.gc.ca/api/cccs/rss/v1/get?feed=alerts_advisories&lang=en)  
 - [NCSC UK](https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml)  
