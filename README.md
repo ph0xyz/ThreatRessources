@@ -78,6 +78,9 @@ Software tools and platforms developed by CIRCL, Pandora, and related initiative
 - **BGP Ranking – General BGP and Routing Analysis**  
   [bgpranking.circl.lu/](https://bgpranking.circl.lu/)
 
+  **MISP Proejct - IOC sharing platform**
+  [misp-project.org](https://misp-project.org/)
+
 ---
 
 ## 📦 CSAF Resources
