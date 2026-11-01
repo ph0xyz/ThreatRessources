@@ -7,18 +7,18 @@ assignees: ''
 
 ---
 
-## 📌 New Source Suggestion
+## New Source Suggestion
 
-Please fill out the details below to suggest a new cybersecurity source for inclusion in the list.
+Please fill out the details below to suggest a cybersecurity source for the list.
 
-### 🔗 URL:
-Link to the main advisory page, RSS feed, or newsletter
+### URL:
+Link to the main advisory page, standard machine-readable feed (RSS or Atom), or newsletter.
 
-### 🗂️ Type of Source:
-Manual Reader / RSS / Newsletter / IOC Feed 
+### Type of Source:
+Manual Reader / RSS / Newsletter / IOC Feed
 
-### 📋 Description:
-Brief summary of what this source offers (e.g., vendor advisories, threat feeds, CERT updates, etc.) 
+### Description:
+Briefly describe what the source offers (for example, vendor advisories, threat feeds, or CERT updates).
 
-### ✅ Why it's useful:
-One or two lines on why this source should be added
+### Why it's useful:
+In one or two lines, explain why this source should be added. If it is not in English, explain why it is relevant to the wider cybersecurity community.
