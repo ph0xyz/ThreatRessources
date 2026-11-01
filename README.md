@@ -23,8 +23,8 @@ Manually browsable advisory portals for vulnerability tracking and alert monitor
   - All Advisories: [cisa.gov/news-events/cybersecurity-advisories](https://www.cisa.gov/news-events/cybersecurity-advisories)  
   - Code Red Advisories: [cisa.gov/code-red](https://www.cisa.gov/news-events/cybersecurity-advisories?f%5B0%5D=advisory_type%3A94)
   
-- **CERT-EU – 2025 Advisories**  
-  [cert.europa.eu/publications/security-advisories/2025](https://cert.europa.eu/publications/security-advisories/2025)
+- **CERT-EU – Advisories**  
+  [cert.europa.eu/publications/security-advisories/](https://cert.europa.eu/publications/security-advisories/)
   
 - **CVEFeed.io – Vulnerability Aggregation**  
   [cvefeed.io](https://cvefeed.io/)
@@ -78,7 +78,7 @@ Software tools and platforms developed by CIRCL, Pandora, and related initiative
 - **BGP Ranking – General BGP and Routing Analysis**  
   [bgpranking.circl.lu/](https://bgpranking.circl.lu/)
 
-  **MISP Proejct - IOC sharing platform**
+  **MISP Project - IOC sharing platform**
   [misp-project.org](https://misp-project.org/)
 
 ---
