@@ -115,7 +115,7 @@ Below are selected trusted providers with machine-readable `provider-metadata.js
 
 ---
 
-## 📡 RSS Feeds
+## 📡 Feeds
 
 Real-time vulnerability and advisory updates for integration into feed readers, SIEMs, or SOAR tools:
 
