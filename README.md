@@ -155,8 +155,9 @@ Real-time vulnerability and advisory updates for integration into feed readers, 
 
 ### Topic-Specific Feeds (Talkback.sh)
 
-- [Network Security](https://talkback.sh/resources/feed/category/7/)  
-- [Industrial Control Systems](https://talkback.sh/resources/feed/category/6/)
+- Talkback.sh — Network Security: [Feed](https://talkback.sh/resources/feed/category/7/)
+- Talkback.sh — Industrial Control Systems: [Feed](https://talkback.sh/resources/feed/category/6/)
+
 
 ---
 
