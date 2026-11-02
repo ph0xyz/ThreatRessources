@@ -153,6 +153,11 @@ Real-time vulnerability and advisory updates for integration into feed readers, 
 - **HP Security Advisories**  
   [RSS](https://support.hp.com/wcc-widget-services/us-en/rss-feed?category=business-solutions-software&id=232422101974597001049413910241836)
 
+### Independent Security News
+
+- **Joho no Todai — Security (Japanese)**: [RSS](https://joho-todai.com/tag/security/rss/) · [Publisher](https://joho-todai.com/tag/security/)  
+  Japanese-language reporting on disclosed vulnerabilities, operating-system security, and cyber incidents, with links to original sources.
+
 ### Topic-Specific Feeds (Talkback.sh)
 
 - Talkback.sh — Network Security: [Feed](https://talkback.sh/resources/feed/category/7/)
