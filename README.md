@@ -153,6 +153,11 @@ Real-time vulnerability and advisory updates for integration into feed readers, 
 - **HP Security Advisories**  
   [RSS](https://support.hp.com/wcc-widget-services/us-en/rss-feed?category=business-solutions-software&id=232422101974597001049413910241836)
 
+### Independent Advisory Feeds
+
+- **ICHI — Critical vulnerability advisories**  
+  [RSS 2.0](https://ichi.global/api/alerts) · [Advisories and sources](https://ichi.global/alert) — Critical-threat advisories and substantive, source-linked developments; observation only, separate from ICHI's index score.
+
 ### Topic-Specific Feeds (Talkback.sh)
 
 - Talkback.sh — Network Security: [Feed](https://talkback.sh/resources/feed/category/7/)
